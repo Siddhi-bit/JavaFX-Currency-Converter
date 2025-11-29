@@ -56,6 +56,8 @@ These can be implemented later:
   (“convert 500 CAD to USD”)  
 
 ---
+<img width="467" height="586" alt="image" src="https://github.com/user-attachments/assets/f2dd2cc3-6e60-46a9-ab23-756dcd39528f" />
+
 
 ##  Getting Started  
 
@@ -66,3 +68,5 @@ These can be implemented later:
 ### ✔ Clone and Run  
 ```bash
 https://github.com/Siddhi-bit/JavaFX-Currency-Converter/blob/main/hellofx.java
+![Uploading image.png…]()
+
