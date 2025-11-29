@@ -65,5 +65,3 @@ These can be implemented later:
 
 ### ✔ Clone and Run  
 ```bash
-git clone https://github.com/Siddhi-bit/JavaFX-Currency-Converter
-cd JavaFX-Currency-Converter
